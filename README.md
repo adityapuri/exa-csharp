@@ -95,6 +95,10 @@ You can use third party libraries too for your solution.
 #### WIN-WIN
 ***
 
+![alt text](http://www.gliffy.com/go/publish/image/6087498/M.png "Win in 1 step")
+
+Please look at the image carefully which describe scenario as follows:
+
 
 #### Catch Tweet if you can
 ***

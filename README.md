@@ -67,12 +67,34 @@ How from you code you will facilitate "Client 2" request to add "Func3" without 
 #### TrackME
 ***
 
+![alt text](http://www.gliffy.com/go/publish/image/4690202/M.png "Stations")
+
+Please look at the image carefully which describe scenario as follows:
+
+1. All the stations
+2. Distance between station has been mentioned in the Image itself
+3. There N vehicles which can be treated as Client. Each client would be initialized as follows:
+	1. *C(i, s, d)* where "*C*" is client as vehicle, "*i*" is Initial Station, "*s*" is speed of vehicle and "*d*" is direction(from starting station -> to next station)
+	2. *i<>d* where Initial station should not be same 
+	3. When destination is reached, Vehicle is considered to be Parked
+4. All clients would be initialized and will send signal to Server at constant duration say after every 1km
+5. Server will be having information and should show the status of client as follows:
+	1. Status of particular client as Moving or Parked
+	2. Status of Station as which as all client is near to particular station(Optional for Solution)
+	
+For simplicity:
+1. Speed can be considered as constant of all client 
+2. It can be considered that all client are travelling in same direction
+
+All participant should write Clients and Server and showcase this scenario. A simple Console Application as Server and Client can created.
+
+You can use third party libraries too for your solution.
 
 #### WIN-WIN
 ***
 
 
-#### Catch Tweet if Can
+#### Catch Tweet if you can
 ***
 
 

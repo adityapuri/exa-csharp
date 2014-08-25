@@ -99,6 +99,19 @@ You can use third party libraries too for your solution.
 
 Please look at the image carefully which describe scenario as follows:
 
+1. Chance is with White pieces
+2. There is a possibility of checkmate in one move :) let's you can find this out or not !!!. And this is checkmate move.
+3. If user select any other any other move, system should show "Winning possibility is not 100%". If user select Checkmate move then system show "Winning possibility is 100% with checkmate".
+
+
+##### What you have to do !!!!
+
+1. Design the Chess board on your web page
+2. Build a client-side plugin which can support Chess board in a following manner:
+	1. Valid movements should be supported with all kind of pieces
+3. With reference of above problem, White should move and achieve Checkmate
+4. Web page should show alert if Checkmate is not possible. "Winning possibility is not 100%"
+5. Black movement is prohibited since chance is with White pieces
 
 #### Catch Tweet if you can
 ***

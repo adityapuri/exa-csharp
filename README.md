@@ -116,6 +116,17 @@ Please look at the image carefully which describe scenario as follows:
 #### Catch Tweet if you can
 ***
 
+Problem is as defined:
+
+1. Get all Tweets for particular Topic on your custom web page
+2. Page should simulate the real time behaviour
+3. Page should have a Textbox which can take Topic as input and will act as feed to the your web page.
+4. Be creative in your design
+5. Get the followers of searched Topic and show them on your page
+
+Reference:
+
+1. https://twitter.com/MyDiyAngels
 
 #### So what you have to do once you have your inspiring and excellent solution with you. 
 

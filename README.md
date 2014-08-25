@@ -67,7 +67,7 @@ How from you code you will facilitate "Client 2" request to add "Func3" without 
 #### TrackME
 ***
 
-![alt text](http://www.gliffy.com/go/publish/image/4690202/M.png "Stations")
+![alt text](http://www.gliffy.com/go/publish/image/6087349/M.png "Stations")
 
 Please look at the image carefully which describe scenario as follows:
 

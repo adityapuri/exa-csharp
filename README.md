@@ -73,7 +73,7 @@ Please look at the image carefully which describe scenario as follows:
 
 1. All the stations
 2. Distance between station has been mentioned in the Image itself
-3. There N vehicles which can be treated as Client. Each client would be initialized as follows:
+3. There are N vehicles which can be treated as Client. Each client would be initialized as follows:
 	1. *C(i, s, d)* where "*C*" is client as vehicle, "*i*" is Initial Station, "*s*" is speed of vehicle and "*d*" is direction(from starting station -> to next station)
 	2. *i<>d* where Initial station should not be same 
 	3. When destination is reached, Vehicle is considered to be Parked
@@ -85,8 +85,10 @@ Please look at the image carefully which describe scenario as follows:
 For simplicity:
 1. Speed can be considered as constant of all client 
 2. It can be considered that all client are travelling in same direction
+3. "N" that is number of Client can be considered as 4 
+4. Initialize your client based on the scenario explained above. All client should talk to Server 
 
-All participant should write Clients and Server and showcase this scenario. A simple Console Application as Server and Client can created.
+All participant should write clients and server and showcase this scenario. A simple Console Application as Server and Client can be created.
 
 You can use third party libraries too for your solution.
 

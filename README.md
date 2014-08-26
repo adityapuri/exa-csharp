@@ -143,6 +143,11 @@ For example, word "Swathe" from dictionary has following anagrams:
 
 Swath, Wheat, Sweat, Hates, Heats, Thaws, Haste, Waste, Whets, Wast, Wash, Awes, West, Thaw, Teas, Heat, What, Whet, Swat, Stew, East, Haws, Hats, Seat, Eats, Hews, Sate, Wets, Hast, Hate, Saw ,Set, Wet, Tea, Haw, Hew, Sat, The, Hat,Ate, Sew,Has, Eat, Was, Awe, Sea, Ash, She, Ha, Eh, We,At, He, As, Ah, A 
 
+Point to remember:
+
+1. Choose your data structure wisely so that you can achieve maximum performance while searching the dictionary
+2. Go back to school and find out best algorithm to achieve the searching and which complement your data structure 
+
 #### So what you have to do once you have your inspiring and excellent solution with you. 
 
 1. Fork the repository from your GitHub account. 

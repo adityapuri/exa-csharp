@@ -100,7 +100,7 @@ You can use third party libraries too for your solution.
 Please look at the image carefully which describe scenario as follows:
 
 1. Chance is with White pieces
-2. There is a possibility of checkmate in one move :) let's you can find this out or not !!!. And this is checkmate move.
+2. There is a possibility of checkmate in one move :) let's see if you can find this out or not !!!. And this is checkmate move.
 3. If user select any other any other move, system should show "Winning possibility is not 100%". If user select Checkmate move then system show "Winning possibility is 100% with checkmate".
 
 
@@ -128,10 +128,24 @@ Reference:
 
 1. https://twitter.com/MyDiyAngels
 
+#### AnagramIT
+***
+
+Problem is as defined:
+
+1. Take reference of dictionary files from repository itself
+2. Read this file into your program. It can be a Web Page or a Console application
+3. If it is a web page then it should have a Textbox which can take a random or genuine word string as input
+4. Using above input you have to find how many perfect(same length of input string) or imperfect(anagram length is less than length of input string) Anagrams are possible.
+5. List all the anagram
+
+For example, word "Swathe" from dictionary has following anagrams:
+
+Swath, Wheat, Sweat, Hates, Heats, Thaws, Haste, Waste, Whets, Wast, Wash, Awes, West, Thaw, Teas, Heat, What, Whet, Swat, Stew, East, Haws, Hats, Seat, Eats, Hews, Sate, Wets, Hast, Hate, Saw ,Set, Wet, Tea, Haw, Hew, Sat, The, Hat,Ate, Sew,Has, Eat, Was, Awe, Sea, Ash, She, Ha, Eh, We,At, He, As, Ah, A 
+
 #### So what you have to do once you have your inspiring and excellent solution with you. 
 
 1. Fork the repository from your GitHub account. 
-2. Push the code related to solution into Forked repository. You can also let us know through email:adityap@exzeo.com once you are done with your solution. You can let us know that feedback should be published on Github or you can let us know your email address where we can send your feedback that will be private to you.
-
+2. Push the code related to solution into Forked repository. You can also let us know through email:adityap@exzeo.com once you are done with your solution. We can send the feedback that is personal to you only. In order to do so you have to write us an email saying "Send me feedback on my email <email here>".
 
 #### We will get back to you once your solution is verified. 
